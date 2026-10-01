@@ -4,7 +4,7 @@ Minecraft 1.7.10 / GT New Horizons（GTNH）模组索引，汇总功能简介、
 
 ## 模组列表
 
-版本与 JAR 下载地址更新于 **2026-09-27**。各模组的「最新发布」链接可查看后续版本。
+版本与 JAR 下载地址更新于 **2026-10-01**。各模组的「最新发布」链接可查看后续版本。
 
 | 模组 | 简介 | 当前版本 | 下载 | 源码 |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Minecraft 1.7.10 / GT New Horizons（GTNH）模组索引，汇总功能简介、
 | **BetterFurnaceNH** | 添加分级熔炉、流体燃料和高炉升级等内容。 | [0.2.2](https://github.com/liansishen/BetterFurnaceNH/releases/tag/0.2.2) | [下载 JAR](https://github.com/liansishen/BetterFurnaceNH/releases/download/0.2.2/betterfurnacenh-0.2.2.jar) · [最新发布](https://github.com/liansishen/BetterFurnaceNH/releases/latest) | [GitHub](https://github.com/liansishen/BetterFurnaceNH) |
 | **ClipboardAnywhere** | 为 BiblioCraft 写字板提供可移动悬浮窗，方便查看页面、切换任务状态。 | [0.2.2](https://github.com/liansishen/ClipboardAnywhere/releases/tag/0.2.2) | [下载 JAR](https://github.com/liansishen/ClipboardAnywhere/releases/download/0.2.2/clipboardanywhere-0.2.2.jar) · [最新发布](https://github.com/liansishen/ClipboardAnywhere/releases/latest) | [GitHub](https://github.com/liansishen/ClipboardAnywhere) |
 | **EasyTechnology** | 为 GTNH 添加机器和物品，改善前期发展体验。 | [0.5.2](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.2) | [下载 JAR](https://github.com/liansishen/EasyTechnology/releases/download/0.5.2/easytech-0.5.2.jar) · [最新发布](https://github.com/liansishen/EasyTechnology/releases/latest) | [GitHub](https://github.com/liansishen/EasyTechnology) |
-| **InGameIME** | 在游戏输入框中使用 Rime 中文输入法，并提供物品名称搜索。 | [0.1.1](https://github.com/liansishen/InGameIME/releases/tag/0.1.1) | [下载 JAR](https://github.com/liansishen/InGameIME/releases/download/0.1.1/ingameime-0.1.1.jar) · [最新发布](https://github.com/liansishen/InGameIME/releases/latest) | [GitHub](https://github.com/liansishen/InGameIME) |
+| **InGameIME** | 在游戏输入框中使用 Rime 中文输入法，支持 BackpackEnhance 搜索框和物品名称搜索。 | [0.1.2](https://github.com/liansishen/InGameIME/releases/tag/0.1.2) | [下载 JAR](https://github.com/liansishen/InGameIME/releases/download/0.1.2/ingameime-0.1.2.jar) · [最新发布](https://github.com/liansishen/InGameIME/releases/latest) | [GitHub](https://github.com/liansishen/InGameIME) |
 | **TomsStorageNH** | Tom's Simple Storage 的 1.7.10 移植版，提供集中存储与终端。 | [0.2.1](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.1) | [下载 JAR](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.1/tomsstorage-0.2.1.jar) · [最新发布](https://github.com/liansishen/TomsStorageNH/releases/latest) | [GitHub](https://github.com/liansishen/TomsStorageNH) |
 
 ## 安装提示
