@@ -13,7 +13,7 @@ Minecraft 1.7.10 / GT New Horizons（GTNH）模组索引，汇总功能简介、
 | **ClipboardAnywhere** | 为 BiblioCraft 写字板提供可移动悬浮窗，方便查看页面、切换任务状态。 | [0.2.2](https://github.com/liansishen/ClipboardAnywhere/releases/tag/0.2.2) | [下载 JAR](https://github.com/liansishen/ClipboardAnywhere/releases/download/0.2.2/clipboardanywhere-0.2.2.jar) · [最新发布](https://github.com/liansishen/ClipboardAnywhere/releases/latest) | [GitHub](https://github.com/liansishen/ClipboardAnywhere) |
 | **EasyTechnology** | 为 GTNH 添加机器和物品，改善前期发展体验。 | [0.5.2](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.2) | [下载 JAR](https://github.com/liansishen/EasyTechnology/releases/download/0.5.2/easytech-0.5.2.jar) · [最新发布](https://github.com/liansishen/EasyTechnology/releases/latest) | [GitHub](https://github.com/liansishen/EasyTechnology) |
 | **InGameIME** | 在游戏输入框中使用 Rime 中文输入法，支持 BackpackEnhance 搜索框和物品名称搜索。 | [0.1.2](https://github.com/liansishen/InGameIME/releases/tag/0.1.2) | [下载 JAR](https://github.com/liansishen/InGameIME/releases/download/0.1.2/ingameime-0.1.2.jar) · [最新发布](https://github.com/liansishen/InGameIME/releases/latest) | [GitHub](https://github.com/liansishen/InGameIME) |
-| **TomsStorageNH** | Tom's Simple Storage 的 1.7.10 移植版，提供集中存储与终端。 | [0.2.1](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.1) | [下载 JAR](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.1/tomsstorage-0.2.1.jar) · [最新发布](https://github.com/liansishen/TomsStorageNH/releases/latest) | [GitHub](https://github.com/liansishen/TomsStorageNH) |
+| **TomsStorageNH** | Tom's Simple Storage 的 1.7.10 移植版，提供集中存储与终端，支持 Modernity 界面材质适配。 | [0.2.2](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.2) | [下载 JAR](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.2/tomsstorage-0.2.2.jar) · [Modernity 适配包](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.2/Modernity-TomsStorage-0.2.2.zip) · [最新发布](https://github.com/liansishen/TomsStorageNH/releases/latest) | [GitHub](https://github.com/liansishen/TomsStorageNH) |
 
 ## 安装提示
 
@@ -22,3 +22,4 @@ Minecraft 1.7.10 / GT New Horizons（GTNH）模组索引，汇总功能简介、
 3. **InGameIME** 的发布 JAR 不包含 JNA、librime、输入方案或词典；使用前请按[安装说明](https://github.com/liansishen/InGameIME#安装)准备这些组件。
 4. **BetterFurnaceNH** 的[入门与迁移辅助包](https://github.com/liansishen/BetterFurnaceNH/releases/tag/0.2.2-packages)单独发布，按需下载；模组本体请使用上表的 JAR。
 5. **BackpackEnhance** 的默认材质随模组内置。使用 Modernity 时，将上表中的适配包 ZIP 放入游戏的 `resourcepacks` 目录并启用；旧版单张 `overlay.png` 材质包需按[材质迁移说明](https://github.com/liansishen/BackpackEnhance/blob/main/resourcepacks/README.md#迁移旧图集)更新。
+6. **TomsStorageNH** 的 Modernity 适配包提供存储终端与合成终端的界面材质。将上表中的 ZIP 放入游戏的 `resourcepacks` 目录，与 Modernity 一同启用，并将适配包置于 Modernity 上方。
