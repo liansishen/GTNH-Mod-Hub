@@ -229,11 +229,11 @@ Tom's Simple Storage 的 1.7.10 移植版，为 GTNH 前期提供轻量集中存
 
 | 模组版本 | 适配 GTNH 版本 | 状态 |
 | :--- | :--- | :--- |
-| [0.2.4](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.4) | 2.9.0RC1 | 适配 |
+| [0.2.5](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.5) | 2.9.0RC1 | 适配 |
 
-> 🏷️ **当前版本**：[`0.2.4`](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.4) &nbsp;｜&nbsp; 📥 **直接下载**：[tomsstorage-0.2.4.jar](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.4/tomsstorage-0.2.4.jar) &nbsp;｜&nbsp; 🎨 **材质包**：[Modernity 适配包](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.4/Modernity-TomsStorage-0.2.4.zip) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/TomsStorageNH/releases/latest) · [源码仓库](https://github.com/liansishen/TomsStorageNH)
+> 🏷️ **当前版本**：[`0.2.5`](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.5) &nbsp;｜&nbsp; 📥 **直接下载**：[tomsstorage-0.2.5.jar](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.5/tomsstorage-0.2.5.jar) &nbsp;｜&nbsp; 🎨 **材质包**：[Modernity 适配包](https://github.com/liansishen/TomsStorageNH/releases/download/0.2.5/Modernity-TomsStorage-0.2.5.zip) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/TomsStorageNH/releases/latest) · [源码仓库](https://github.com/liansishen/TomsStorageNH)
 
-> 升级到 0.2.4 时，客户端与服务端需同步更新 TomsStorageNH；必需依赖为 GTNHLib、兼容的 GTNH NotEnoughItems 与 UniMixins。Modernity 适配包放入 `resourcepacks`，与 Modernity 同时启用并置于 Modernity 上方。
+> 升级到 0.2.5 时，客户端与服务端需同步更新 TomsStorageNH；必需依赖为 GTNHLib、兼容的 GTNH NotEnoughItems 与 UniMixins。Modernity 适配包放入 `resourcepacks`，与 Modernity 同时启用并置于 Modernity 上方。
 
 ---
 
@@ -248,7 +248,7 @@ Tom's Simple Storage 的 1.7.10 移植版，为 GTNH 前期提供轻量集中存
 | **ClipboardAnywhere** | [0.2.2](https://github.com/liansishen/ClipboardAnywhere/releases/tag/0.2.2) | 2.9.0RC1 | 适配 |
 | **EasyTechnology** | [0.5.3](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.3) | 2.9.0RC1 | 适配 |
 | **InGameIME** | [0.1.2](https://github.com/liansishen/InGameIME/releases/tag/0.1.2) | 2.9.0RC1 | 适配 |
-| **TomsStorageNH** | [0.2.4](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.4) | 2.9.0RC1 | 适配 |
+| **TomsStorageNH** | [0.2.5](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.5) | 2.9.0RC1 | 适配 |
 
 ## 安装说明
 
