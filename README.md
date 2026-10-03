@@ -160,9 +160,9 @@
 
 | 模组版本 | 适配 GTNH 版本 | 状态 |
 | :--- | :--- | :--- |
-| [0.5.2](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.2) | 2.9.0RC1 | 适配 |
+| [0.5.3](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.3) | 2.9.0RC1 | 适配 |
 
-> 🏷️ **当前版本**：[`0.5.2`](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.2) &nbsp;｜&nbsp; 📥 **直接下载**：[easytech-0.5.2.jar](https://github.com/liansishen/EasyTechnology/releases/download/0.5.2/easytech-0.5.2.jar) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/EasyTechnology/releases/latest) · [源码仓库](https://github.com/liansishen/EasyTechnology)
+> 🏷️ **当前版本**：[`0.5.3`](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.3) &nbsp;｜&nbsp; 📥 **直接下载**：[easytech-0.5.3.jar](https://github.com/liansishen/EasyTechnology/releases/download/0.5.3/easytech-0.5.3.jar) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/EasyTechnology/releases/latest) · [源码仓库](https://github.com/liansishen/EasyTechnology)
 
 ---
 
@@ -246,7 +246,7 @@ Tom's Simple Storage 的 1.7.10 移植版，为 GTNH 前期提供轻量集中存
 | **BackpackEnhance** | [0.3.2](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.2) | 2.9.0RC1 | 适配 |
 | **BetterFurnaceNH** | [0.2.3](https://github.com/liansishen/BetterFurnaceNH/releases/tag/0.2.3) | 2.9.0RC1 | 适配 |
 | **ClipboardAnywhere** | [0.2.2](https://github.com/liansishen/ClipboardAnywhere/releases/tag/0.2.2) | 2.9.0RC1 | 适配 |
-| **EasyTechnology** | [0.5.2](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.2) | 2.9.0RC1 | 适配 |
+| **EasyTechnology** | [0.5.3](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.3) | 2.9.0RC1 | 适配 |
 | **InGameIME** | [0.1.2](https://github.com/liansishen/InGameIME/releases/tag/0.1.2) | 2.9.0RC1 | 适配 |
 | **TomsStorageNH** | [0.2.4](https://github.com/liansishen/TomsStorageNH/releases/tag/0.2.4) | 2.9.0RC1 | 适配 |
 
