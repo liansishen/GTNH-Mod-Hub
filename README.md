@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Minecraft-1.7.10-informational?style=flat-square" alt="Minecraft 1.7.10">
   <img src="https://img.shields.io/badge/Modpack-GT_New_Horizons-blueviolet?style=flat-square" alt="GT New Horizons">
   <img src="https://img.shields.io/badge/Loader-Forge-orange?style=flat-square" alt="Forge">
-  <img src="https://img.shields.io/badge/Updated-2026--10--03-success?style=flat-square" alt="Updated">
+  <img src="https://img.shields.io/badge/Updated-2026--10--08-success?style=flat-square" alt="Updated">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 模组列表
 
-版本与下载地址更新于 **2026-10-03**。各模组的「最新发布」链接可查看后续版本。
+版本与下载地址更新于 **2026-10-08**。各模组的「最新发布」链接可查看后续版本。
 
 ### BackpackEnhance
 
@@ -36,7 +36,7 @@
 - **多背包标签管理**：自动识别玩家背包内的各类储物装备生成标签页，支持 Adventure Backpack、Brad's Backpack 以及 Forestry 专用与标本背包，并完整遵循 Forestry 物品过滤与四种模式切换。
 - **AE2 无线终端集成**：供电正常且在通信范围内的 AE2 无线物品与无线合成终端直接映射为标签页，支持总数汇总、分块数据同步与 Shift 快速存取。
 - **NEI 搜索与材质适配**：搜索栏支持 NEI 语法匹配，提供槽位高亮、条目筛选与双击标签快速定位；内置独立控件材质，并提供专属 Modernity 适配包。
-- **物品转移规则**：创造模式取起背包时保留鼠标上的物品；Brad's Backpack 侧栏遵循原生背包禁入规则和配置黑名单，覆盖 Shift、普通放入与拖动操作。
+- **物品转移规则**：创造模式支持从玩家物品栏取起物品并存入侧栏，涵盖单击 NEI 作弊获取后的转移，并防止延迟回包覆盖后续鼠标状态；Brad's Backpack 侧栏遵循原生背包禁入规则和配置黑名单，覆盖 Shift、普通放入与拖动操作。
 
 <details>
 <summary>📸 游戏截图预览（点击展开）</summary>
@@ -56,11 +56,11 @@
 
 | 模组版本 | 适配 GTNH 版本 | 状态 |
 | :--- | :--- | :--- |
-| [0.3.2](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.2) | 2.9.0RC1 | 适配 |
+| [0.3.3](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.3) | 2.9.0RC1 | 适配 |
 
-> 🏷️ **当前版本**：[`0.3.2`](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.2) &nbsp;｜&nbsp; 📥 **直接下载**：[backpackenhance-0.3.2.jar](https://github.com/liansishen/BackpackEnhance/releases/download/0.3.2/backpackenhance-0.3.2.jar) &nbsp;｜&nbsp; 🎨 **材质包**：[Modernity 适配包](https://github.com/liansishen/BackpackEnhance/releases/download/0.3.2/Modernity-BackpackEnhance-0.3.2.zip) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/BackpackEnhance/releases/latest) · [源码仓库](https://github.com/liansishen/BackpackEnhance)
+> 🏷️ **当前版本**：[`0.3.3`](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.3) &nbsp;｜&nbsp; 📥 **直接下载**：[backpackenhance-0.3.3.jar](https://github.com/liansishen/BackpackEnhance/releases/download/0.3.3/backpackenhance-0.3.3.jar) &nbsp;｜&nbsp; 🎨 **材质包**：[Modernity 适配包](https://github.com/liansishen/BackpackEnhance/releases/download/0.3.3/Modernity-BackpackEnhance-0.3.3.zip) &nbsp;｜&nbsp; 🔗 **链接**：[最新发布](https://github.com/liansishen/BackpackEnhance/releases/latest) · [源码仓库](https://github.com/liansishen/BackpackEnhance)
 
-> 联机升级到 0.3.2 时，客户端与服务端需同步更新 BackpackEnhance，以匹配新的侧栏状态数据包格式。
+> 联机升级到 0.3.3 时，客户端与服务端需同步更新 BackpackEnhance，以匹配新的侧栏点击、拖放、状态和创造模式光标同步数据包。
 
 ---
 
@@ -243,7 +243,7 @@ Tom's Simple Storage 的 1.7.10 移植版，为 GTNH 前期提供轻量集中存
 
 | 模组 | 当前版本 | 适配 GTNH 版本 | 状态 |
 | :--- | :--- | :--- | :--- |
-| **BackpackEnhance** | [0.3.2](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.2) | 2.9.0RC1 | 适配 |
+| **BackpackEnhance** | [0.3.3](https://github.com/liansishen/BackpackEnhance/releases/tag/0.3.3) | 2.9.0RC1 | 适配 |
 | **BetterFurnaceNH** | [0.2.3](https://github.com/liansishen/BetterFurnaceNH/releases/tag/0.2.3) | 2.9.0RC1 | 适配 |
 | **ClipboardAnywhere** | [0.2.2](https://github.com/liansishen/ClipboardAnywhere/releases/tag/0.2.2) | 2.9.0RC1 | 适配 |
 | **EasyTechnology** | [0.5.3](https://github.com/liansishen/EasyTechnology/releases/tag/0.5.3) | 2.9.0RC1 | 适配 |
